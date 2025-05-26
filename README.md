@@ -4,7 +4,7 @@ A simple toggle switch app.
 
 ---
 
-## 🌐 Live Demo : [Click Here](https://userprofile-u2a0.onrender.com)
+## 🌐 Live Demo : [Click Here](https://toggle-switch-livid.vercel.app/)
 
 
 
