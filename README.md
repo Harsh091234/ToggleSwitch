@@ -28,6 +28,6 @@ A simple toggle switch app.
 
 ## 📸 Screenshots
 
-!(public/screenshots/1.png)
+![](public/screenshots/1.png)
 
-!(public/screenshots/2.png)
+![](public/screenshots/2.png)
