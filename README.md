@@ -13,6 +13,7 @@ A simple toggle switch app.
 ## ✨ Features
 
 🟢 Turns green when in ON state
+
 ⚫ Turns off when in OFF state
 
 ---
@@ -23,5 +24,10 @@ A simple toggle switch app.
 |:-----------|:------------|
 | **Frontend** | React.js |
 
-
 ---
+
+## 📸 Screenshots
+
+(public/screenshots/1.png)
+
+(public/screenshots/2.png)
