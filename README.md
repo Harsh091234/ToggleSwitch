@@ -13,6 +13,7 @@ A simple toggle switch app.
 ## ✨ Features
 
 🟢 Turns green when in ON state
+
 ⚫ Turns off when in OFF state
 
 ---
